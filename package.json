@@ -1,1 +1,23 @@
-//Hello
+{
+  "name": "check-twitch-streamers",
+  "version": "1.0.0",
+  "description": "A way to help Alexa check who is streaming on Twitch.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "alexa",
+    "skill",
+    "twitch",
+    "streamer"
+  ],
+  "author": "DrFriday",
+  "dependencies": {
+    "alexa-sdk": "^1.0.10"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DrFriday/CheckTwtchStreamers.git"
+  }
+}
